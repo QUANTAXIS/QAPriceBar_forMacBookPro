@@ -2,6 +2,9 @@
 
 为我自己的MacBook Pro的bar做的一个实时行情展示
 
+![495998EF-4326-4CC1-A885-389C441BFE77.jpeg](http://pic.yutiansut.com/Frmm7q_jOEbXVQU4aP8x9R_M_PgU)
+
+
 - 支持 
 
     - 股票
